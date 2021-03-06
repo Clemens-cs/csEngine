@@ -1,0 +1,12 @@
+/Users/clemenssageder/Documents/Privat/Code/cs_Projects/csEngine/csEngine/bin/Debug/netcoreapp3.1/csEngine.deps.json
+/Users/clemenssageder/Documents/Privat/Code/cs_Projects/csEngine/csEngine/bin/Debug/netcoreapp3.1/csEngine.runtimeconfig.json
+/Users/clemenssageder/Documents/Privat/Code/cs_Projects/csEngine/csEngine/bin/Debug/netcoreapp3.1/csEngine.runtimeconfig.dev.json
+/Users/clemenssageder/Documents/Privat/Code/cs_Projects/csEngine/csEngine/bin/Debug/netcoreapp3.1/csEngine.dll
+/Users/clemenssageder/Documents/Privat/Code/cs_Projects/csEngine/csEngine/bin/Debug/netcoreapp3.1/csEngine.pdb
+/Users/clemenssageder/Documents/Privat/Code/cs_Projects/csEngine/csEngine/obj/Debug/netcoreapp3.1/csEngine.csprojAssemblyReference.cache
+/Users/clemenssageder/Documents/Privat/Code/cs_Projects/csEngine/csEngine/obj/Debug/netcoreapp3.1/csEngine.AssemblyInfoInputs.cache
+/Users/clemenssageder/Documents/Privat/Code/cs_Projects/csEngine/csEngine/obj/Debug/netcoreapp3.1/csEngine.AssemblyInfo.cs
+/Users/clemenssageder/Documents/Privat/Code/cs_Projects/csEngine/csEngine/obj/Debug/netcoreapp3.1/csEngine.csproj.CoreCompileInputs.cache
+/Users/clemenssageder/Documents/Privat/Code/cs_Projects/csEngine/csEngine/obj/Debug/netcoreapp3.1/csEngine.dll
+/Users/clemenssageder/Documents/Privat/Code/cs_Projects/csEngine/csEngine/obj/Debug/netcoreapp3.1/csEngine.pdb
+/Users/clemenssageder/Documents/Privat/Code/cs_Projects/csEngine/csEngine/obj/Debug/netcoreapp3.1/csEngine.genruntimeconfig.cache

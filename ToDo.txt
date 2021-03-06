@@ -1,0 +1,63 @@
+﻿<==============================================Information=================================================>
+https://github.com/BennyQBD/3DGameEngine/tree/master/src/com/base java game-engine 
+https://github.com/MonoGame/MonoGame/tree/develop/MonoGame.Framework c# mono-game-framework
+
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/ help for c#
+https://www.youtube.com/channel/UCnlpv-hhcsAtEHKR2y2fW4Q benny-box-youtube
+https://www.youtube.com/channel/UCnae-7AHkCa97zfsMdIB2DQ for openTk youtube
+<=================================================TO DO====================================================>
+Physics
+
+=> boundingSphere and boundingBox Collision between sphere and box              -> add Direction
+=> boundingBox and boundingPlane Collision between plane and box                -> add Collisionsdetection and Direction
+=> boundingPlane Collision between plane and plane                              -> add Collisiondetection and Direction
+
+
+Core
+
+=> gameObject                                                                   -> complete gameObject
+=> coreEngine                                                                   -> complete coreEngine
+=> Util                                                                         -> code Util
+=> Game                                                                         -> code Game
+=> Input                                                                        -> code Input
+
+
+Rendering
+
+
+=> Attenuation                                                                  -> code Attenuation
+=> Material                                                                     -> code Material
+=> Mesh                                                                         -> code Mesh
+=> renderingEngine                                                              -> code renderingEngine
+=> Shader                                                                       -> code Shader
+=> Texture                                                                      -> code Texture
+=> Vertex                                                                       -> code Vertex
+=> Window                                                                       -> code Window
+=> rourceManagement
+    => mappedValues                                                             -> code mappedValues
+    => meshRecource                                                             -> code meshRecource
+    => shaderRecource                                                           -> code shaderRecource
+    => textureRecource                                                          -> code textureRecource
+=> meshLoading
+    => indexedModel                                                             -> code indexedModel
+    => objIndex                                                                 -> code objIndex
+    => objModel                                                                 -> code objModel
+
+
+Components
+
+=> baseLight                                                                    -> code baseLight
+=> Camera                                                                       -> code Camera
+=> directionalLight                                                             -> code directionalLight
+=> freeLook                                                                     -> code freeLook
+=> freeMove                                                                     -> code freeMove
+=> gameComponent                                                                -> code gameComponent
+=> meshRenderer                                                                 -> code meshRenderer
+=> pointLight                                                                   -> code pointLight
+=> spotLight                                                                    -> code spotLight
+
+
+GameFolder
+
+=> lookAtComponent                                                              -> code lookAtComponent
+=> testGame                                                                     -> code testGame

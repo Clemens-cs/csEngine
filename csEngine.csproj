@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Physics\" />
+    <Folder Include="GameFolder\" />
+    <Folder Include="Core\" />
+    <Folder Include="Rendering\" />
+    <Folder Include="Components\" />
+    <Folder Include="Rendering\meshLoading\" />
+    <Folder Include="Rendering\resourceManagement\" />
+  </ItemGroup>
+</Project>
